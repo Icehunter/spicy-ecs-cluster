@@ -1,0 +1,6 @@
+InstanceType: m5a.xlarge
+MinClusterSize: 2
+MaxClusterSize: 32
+PurgeS3LogsOnStackDelete: true
+CreateExternalFacingLoadBalancer: true
+CreateInternalLoadBalancer: true

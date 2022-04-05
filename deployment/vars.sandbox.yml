@@ -1,0 +1,4 @@
+InstanceType: m5a.large
+PurgeS3LogsOnStackDelete: true
+CreateExternalFacingLoadBalancer: true
+CreateInternalLoadBalancer: true
